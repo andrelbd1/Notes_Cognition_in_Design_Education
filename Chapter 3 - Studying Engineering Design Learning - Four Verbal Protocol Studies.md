@@ -14,8 +14,8 @@
   - Analyze and interpret results
 
 - Develop Coding Scheme to link the verbal protocols and the hypotheses being tested.    
-  | **Design Activity** | **Description** |
-  | ------------------- | --------------- |
+  | **Design Activity**    | **Description**                                   |
+  | ---------------------- | ------------------------------------------------- |
   | Identification of Need | Identify basic needs (purpose, reason for design) |
   | Problem Definition | Define what the problem really is, identify constraints and criteria, reread or question the problem statement |
   | Gathering Definition | Search for and recall information beyond that provided |
