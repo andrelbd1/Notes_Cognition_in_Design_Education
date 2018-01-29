@@ -13,7 +13,7 @@
   - Code the protocols according to the coding scheme
   - Analyze and interpret results
 
-- Develop Coding Scheme to link the verbal protocols and the hypotheses being tested.
+- Develop Coding Scheme to link the verbal protocols and the hypotheses being tested.    
   | **Design Activity** | **Description** |
   |:------------------- |:--------------- |
   | Identification of Need | Identify basic needs (purpose, reason for design) |
@@ -26,3 +26,5 @@
   | Decision | Select one idea or solution among alternatives |
   | Communication | Define the design solution to others, labeling the final design, or writing down instructions |
   | Implementation | Produce or construct a physical device, product, or system |
+
+
