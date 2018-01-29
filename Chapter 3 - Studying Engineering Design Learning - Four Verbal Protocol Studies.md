@@ -14,10 +14,20 @@
   - Analyze and interpret results
 
 - Develop Coding Scheme to link the verbal protocols and the hypotheses being tested.    
+  
   | **Design Activity**    | **Description**                                   |
   | ---------------------- | ------------------------------------------------- |
   | Identification of Need | Identify basic needs (purpose, reason for design) |
+  | Problem Definition | Define what the problem really is, identify constraints and criteria, reread or question the problem statement |
+  | Gathering Definition | Search for and recall information beyond that provided |
+  | Generating Ideas | Develop possible solution ideas, list different alternatives |
+  | Modeling | Describe how to build the idea, how to make it, measuremntes, dimensions, calculations |
+  | Feasibility Analysis | Determine workability, verification of workability, does it meet constraints, criteria, does it make sense | 
+  | Evaluation | Compare alternatives (is one better, cheaper) make judgments about one alternative relative to another |
+  | Decision | Select one idea or solution among alternatives |
+  | Communication | Define the design solution to others, labeling the final design, or writing down instructions |
+  | Implementation | Produce or construct a physical device, product, or system |    
 
-- 
+Reference: Ericsson K. A., and Simon H. A., (1993), Protocol Analysis, MIT Press, Cambridge, MA.
 
 
