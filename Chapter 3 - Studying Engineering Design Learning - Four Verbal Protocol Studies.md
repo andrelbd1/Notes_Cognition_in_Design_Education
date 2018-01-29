@@ -15,7 +15,7 @@
 
 - Develop Coding Scheme to link the verbal protocols and the hypotheses being tested.    
   | **Design Activity** | **Description** |
-  |:------------------- |:--------------- |
+  | ------------------- | --------------- |
   | Identification of Need | Identify basic needs (purpose, reason for design) |
   | Problem Definition | Define what the problem really is, identify constraints and criteria, reread or question the problem statement |
   | Gathering Definition | Search for and recall information beyond that provided |
@@ -25,6 +25,8 @@
   | Evaluation | Compare alternatives (is one better, cheaper) make judgments about one alternative relative to another |
   | Decision | Select one idea or solution among alternatives |
   | Communication | Define the design solution to others, labeling the final design, or writing down instructions |
-  | Implementation | Produce or construct a physical device, product, or system |
+  | Implementation | Produce or construct a physical device, product, or system |    
+
+- 
 
 
