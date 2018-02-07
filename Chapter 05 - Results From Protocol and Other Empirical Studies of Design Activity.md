@@ -1,0 +1,11 @@
+### Results From Protocol and Other Empirical Studies of Design Activity
+- This paper reviews protocol and other empirical studies of design activity.
+- Problem analysis is weak in design. 
+- The designer-subjects jumped to ideas for solutions (or partial solutions) before they has fully formulated the problem. This is a reflections of the fact that designers are solution-led, not problem-led. It is the evaluation of the solution that is important, not the analysis of the problem.
+- Researches found that some students became stuck on information gathering, rather than  progressing to solution generation. Novice students tend do not gather a lot of information to 'solve a simple problem'.
+- Some designers may be too ready to re-use features of known existing designs, rather than to explore the problem and generate new design features.
+- Sketching helps the designer to find unintended consequences, the surprises that keep the design exploration going in 'reflective conversation with the situation'.
+- Sketching serves at least three purposes:
+  - as an external memory device in which to leave ideas as visual tokens;
+  - as a source of visuospatial cues for the association of functional issues
+  - as a physical setting in which design thooughts are constructed in a type of situated action.
